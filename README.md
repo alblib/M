@@ -12,6 +12,7 @@ The M Language is a multi-layer free software for Mathematical use. One of the m
   * and also is a replacement of PDF and TeX, so provides real-time calculation output to documents, and interactive documents.
   * is part of M Package interface and should provide document viewer for web browser, desktop, and mobile, with paper-printing ability.
   * should provide TeX <-> M Document conversion for time period.
+  
 Mind that the basic memory structure we aim for is multi-linear-friendly memory structure and fundamentally reference call, which means:
 * Provides fast-access indefinite-ranked tensor structure.
 * Tends not to numerically calculate formulas to reduce loads and get more precise result.
